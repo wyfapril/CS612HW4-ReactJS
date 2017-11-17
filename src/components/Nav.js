@@ -22,7 +22,7 @@ class Nav extends Component {
 				<ul><a>Blog 1: Inheritance</a></ul>
 				<ul><a>Blog 2: Timpani</a></ul>
 				<ul><a>Blog 3: Swedish</a></ul>
-				<ul><a>Show All</a></ul>
+				<ul><a>Welcome</a></ul>
 			</div>
 		)
 	}

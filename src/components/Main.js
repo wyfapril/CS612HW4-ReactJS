@@ -24,7 +24,7 @@ class Main extends Component {
 
     handleClickOutside(event) {
         if (this.wrapperRef && !this.wrapperRef.contains(event.target)) {
-            alert('You clicked outside of me!');
+            alert('Welcome to My Blog!');
         }
     }
 
