@@ -1,0 +1,56 @@
+body {
+  background: url("./images/background.jpg") no-repeat center fixed;
+  background-size: cover;
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  color: #772D05;
+}
+
+.app {
+  margin: 15px;
+}
+
+.header, .footer{
+  width: 100%;
+  clear: both;
+}
+
+.main, .nav {
+  float: left;
+  margin: 0 auto;
+}
+
+.header {
+  background: url("./images/blog.jpg") no-repeat center;
+  height: 130px;
+  margin: 0 auto 50px auto;
+}
+
+.main {
+  width: 65%;
+}
+
+.blog {
+  margin-bottom: 100px;
+}
+
+.nav {
+  width: 35%;
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+#photo1 {
+  background: url("./images/succulent.jpg") no-repeat center;
+  height: 465px;
+}
+
+#photo2 {
+  background: url("./images/timpani.jpg") no-repeat center;
+  height: 349px;
+}
+
+#photo3 {
+  background: url("./images/swedish.jpg") no-repeat center;
+  height: 500px;
+}
